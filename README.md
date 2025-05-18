@@ -15,7 +15,7 @@
 ### Welcome to my [Github page](https://your-website-link.com) 👋!
 
 - 👯 My name is **DropKen Lyu**, and I am from **China**.  
-- 🔭 Currently, I am pursuing my **Bachelor's degree in Computer Science** at [Your University Name](https://your-university-link.com).  
+- 🔭 Currently, I am pursuing my **Bachelor's degree in Computer Science** at [CNHK University](https://your-university-link.com).  
 - 🌱 I'm deeply interested in **Machine Learning**, **Artificial Intelligence**, and **Deep Learning**, and am always looking for exciting projects and collaborations.
 - 💬 Feel free to ask me about **Deep Learning**, **Computer Vision**, **Data Science**, or any other cool topics in tech!
 
