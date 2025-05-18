@@ -1,74 +1,46 @@
-# Hi, I'm [Your Name] 👋
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<div>
+  <h1 align="center"> 
+    <strong>
+      <img src="https://github.com/ffftuanxxx/ffftuanxxx/blob/main/hi.gif" width="90px">, This is <mark>James LIAO!</mark>
+    </strong>
+  </h1>
+</div>
+ 
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ffftuanxxx)
+[![About me](https://img.shields.io/badge/About%20Me-eaf500?style=for-the-badge)](https://ffftuanxxx.github.io)
+[![Website](https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge)](https://elucidator.cn)
+[![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge)](mailto:1544521055@qq.com)
+<!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)-->
+<!--<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>-->
+### Welcome to my [Github page](https://ffftuanxxx.github.io)<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">!
+- 👯 My name is Jiecheng Liao from China. 
+- 🔭 I am currently finishing my Computer Science and Technology Bachelor degree at the [Beijing Normal-Hong Kong Baptist University (BNBU)](https://www.uic.edu.cn/).
+- 🌱 I am focusing on my research area, looking forward to collaborating on more Related projects and papers.
+- 💬 Ask me about Deep learning, Computer Vision.
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on **[Your Key Technologies]**. I love learning new things and contributing to open-source projects.
 
-## 🔧 Technologies & Tools
+### 🌱 Research area: 
+- Machine Learning, Deep Learning, Computer Vision, Computer Graphics, and Medical Image Processing
+<!--### 📫 Repository Status & Language Usage:-->
+### 📫 Language Usage:
+<!--![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffftuanxxx&show_icons=true&theme=radical&count_private=true)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffftuanxxx&theme=radical&count_private=true&hide=javascript,scss&layout=compact)](https://github.com/ffftuanxxx/github-readme-stats)
 
-Here are the main technologies and tools I work with:
+<h2 align="center">Visitor's count :eyes:</h2>
+<p align="center"><img src="https://profile-counter.glitch.me/{ffftuanxxx}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-- **Languages**: Python, JavaScript, TypeScript, C++
-- **Frontend**: React, Vue.js, HTML5, CSS3
-- **Backend**: Node.js, Flask, Django
-- **Databases**: PostgreSQL, MongoDB, MySQL
-- **DevOps & Tools**: Docker, Kubernetes, AWS, GitHub Actions, CI/CD
-- **Machine Learning**: TensorFlow, Scikit-Learn, Keras
-- **Others**: REST APIs, GraphQL, Nginx, Redis, Webpack
+<img src="https://imgur.com/rilHVxA.png"/>
+<!--<img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=jha-vineet69&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>--!>
+<!--**ffftuanxxx/ffftuanxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋
+Here are some ideas to get you started:-->
 
-## 📚 Featured Projects
-
-Here are some of the projects I've worked on. Feel free to check them out!
-
-### [Project 1](https://github.com/your-profile/project1)
-
-> **Description**: A short description of what the project does. Mention the technology stack and any interesting features.
-
-- 🛠️ Built with: React, Node.js, MongoDB
-- 🚀 Deployed on: AWS EC2
-- 🎯 Key features: Real-time chat, authentication, file uploads
-
-### [Project 2](https://github.com/your-profile/project2)
-
-> **Description**: Another awesome project that I'm really proud of. This project focuses on [mention the problem it solves or the purpose of the project].
-
-- 🛠️ Built with: Flask, PostgreSQL, Docker
-- 📊 Features: Automated data processing, reports generation
-- 🔗 Link: [Live Demo](https://your-live-demo-link.com)
-
-### [Project 3](https://github.com/your-profile/project3)
-
-> **Description**: A simple project that showcases how to integrate [technology or API used] into a web app. 
-
-- 🛠️ Built with: Python, Flask, Bootstrap
-- 🔥 Key feature: Easy-to-use interface for seamless integration
-
-## 🌱 Currently Learning
-
-- Cloud Infrastructure (AWS, Google Cloud)
-- Kubernetes and Microservices Architecture
-- Advanced Machine Learning algorithms (Deep Learning, Reinforcement Learning)
-- Full-stack Web Development (React, Node.js)
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-## 📝 Blog & Writing
-
-I occasionally write about software development, machine learning, and my learning journey. Here are a few articles I've written:
-
-- [How to Build a REST API with Flask](https://your-blog-link.com)
-- [Machine Learning Basics for Beginners](https://your-blog-link.com)
-- [Docker 101: Containerizing Your First App](https://your-blog-link.com)
-
-## 🔗 Connect with me
-
-Let's connect! You can reach me through:
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Blog](https://your-blog-link.com)
-- [Email](mailto:your-email@example.com)
-
----
-
-**"Learning is a treasure that will follow its owner everywhere."** – Chinese Proverb
+<!--- 🔭 I’m a normal CST student at [Beijing Normal University-Hong Kong Baptist University United International College (UIC)](https://www.uic.edu.cn/)-->
+<!--- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...-->
