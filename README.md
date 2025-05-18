@@ -29,10 +29,10 @@
 - 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
 
 ### 📈 My GitHub Stats:
-![DropKen's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical&hide=prs)
+![DropKen's GitHub stats](https://github-readme-stats.vercel.app/api?username=DropKen&show_icons=true&count_private=true&theme=radical&hide=prs)
 
 ### 📝 My Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=radical&count_private=true&hide=javascript,scss&layout=compact)](https://github.com/your-username/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DropKen&theme=radical&count_private=true&hide=javascript,scss&layout=compact)](https://github.com/your-username/github-readme-stats)
 
 <h2 align="center">Visitor's Count 👀</h2>
 <p align="center"><img src="https://profile-counter.glitch.me/{your-username}/count.svg" alt="DropKen :: Visitor's Count" /></p>
